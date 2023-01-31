@@ -105,13 +105,13 @@ To run and show correlation between any set of features of the dataset, here is 
 
 * Note: you have to use a jupyter notebook to open this code file.
 
-1. Run the importing stage
+1. Run the importing stage.
 
-2. Load the dataset
+2. Load the dataset.
 
 3. Select which cell you would like to run and show its output.
 
-4. Run Selection/Line in Python Terminal command (Shift+Enter)
+4. Run Selection/Line in Python Terminal command (Shift+Enter).
 
 ## Sources
 This data was taken from (https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
