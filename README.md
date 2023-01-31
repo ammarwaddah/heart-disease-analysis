@@ -107,7 +107,7 @@ To run and show correlation between any set of features of the dataset, here is 
 
 1. Run the importing stage
 
-2. Run the dataset
+2. Load the dataset
 
 3. Select which cell you would like to run and show its output.
 
