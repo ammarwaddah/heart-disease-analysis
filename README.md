@@ -11,7 +11,6 @@ Hence, the idea of analyzing Heart Disease Dataset and get some insights of it u
 * [Sources](#sources)
 
 ## Introduction
-This project is a part of my training at SHAI FOR AI.
 I chose the Heart Disease dataset because of the variety of analytics I can do with its features.
 I checked the state of the data of its problems and errors, NaN, duplicated values, and then I determined some outliers that could be removed in the next versions of this notebook, or later when I build the model and  then check its effect on the model, and then I do some EDA on this dataset to understand more about the data and the correlation between features, numerical features density, its ranges, and the correlation between features and dependent variable.
 I tested the relationships through many methods, which showed a number of correlation diagrams, whether or not they showed their correlation with each other.
